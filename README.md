@@ -167,4 +167,7 @@ jupyter notebook
 
 **Samer Gharbi**
 
-Data Science | Data Analysis | Machine Learning
+Data Scientist | Machine Learning Engineer
+
+GitHub:
+https://github.com/SamerGharbi21
